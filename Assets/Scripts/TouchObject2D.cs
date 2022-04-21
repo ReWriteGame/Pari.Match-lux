@@ -8,7 +8,7 @@ public class TouchObject2D : MonoBehaviour
     private void OnMouseDown()
     {
         touchDownEvent?.Invoke();
-        Debug.Log(gameObject.name + " is touch.");
+        //Debug.Log(gameObject.name + " is touch.");
     }
-    //TODO события на разные типы нажатий
+    //TODO пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 }
